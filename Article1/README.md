@@ -18,4 +18,4 @@ Dans cet article, je vous explique comment structurer un projet Git sur plusieur
 
 ## Nombre de lecteur 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DeadLeMulet.Blog.Article1
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DeadLeMulet.Blog.Article1)
