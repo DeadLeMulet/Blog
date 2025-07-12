@@ -15,3 +15,7 @@ Dans cet article, je vous explique comment structurer un projet Git sur plusieur
 
 - [Documentation GitHub CLI](https://cli.github.com/manual/)
 - Voir le fichier [`sources/liens_utiles.txt`](./sources/liens_utiles.txt)
+
+## Nombre de lecteur 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DeadLeMulet.Blog.Article1
