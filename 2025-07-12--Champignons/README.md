@@ -10,11 +10,11 @@ Mais au-delà du battage médiatique et des anecdotes, que disent réellement le
 
 ![Schéma](./images/schema-architecture.png)
 
-## Plan
+## 📋 Plan
 
 1. Intro
-2. Branches recommandées
-3. Utilisation de GitHub CLI
+2. Qu’est-ce qu’un champignon médicinal ?
+3. Top 5 des champignons médicinaux validés scientifiquement
 . Sources
 
 ## 🍄 **Qu’est-ce qu’un champignon médicinal ?**
@@ -29,6 +29,19 @@ Il est essentiel de distinguer les différentes catégories de champignons :
 • **Champignons comestibles :** Ce sont les champignons que nous consommons principalement pour leur valeur nutritive et leurs qualités culinaires. Ils sont riches en micronutriments, vitamines, minéraux essentiels et fibres alimentaires. De nombreux champignons médicinaux appartiennent également à cette catégorie, étant à la fois nutritifs et thérapeutiques, souvent appelés "champignons culinaires-médicinaux".
 
 • **Champignons médicinaux :** Comme mentionné, ces champignons contiennent des composés spécifiques qui leur confèrent des bienfaits avérés ou potentiels pour la santé, incluant des effets immunomodulateurs, antioxydants, anticancéreux et anti-inflammatoires.
+
+
+## 🧠 **Top 5 des champignons médicinaux validés scientifiquement**
+Voici un tableau récapitulatif des 5 champignons médicinaux les plus étudiés scientifiquement, avec une touche "geek" et des exemples d'utilisation vulgarisés :
+
+| Nom + Surnom Geek                | Effets Prouvés                                                                                                                                                                                                                                                                                                                                                                                               | Études Clés                                                                                              | Forme de Consommation                                              | Exemple d’Utilisation                                                                                                 |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Reishi, le Gardien de la Longévité** | - Soutien immunitaire (lymphocytes T)  <br> - Potentiel anticancéreux (sein, colorectal, prostate) <br> - Cardiovasculaire & métabolique (cholestérol) <br> - Neuroprotection (AVC, Parkinson, anti-épileptique) <br> - Anti-fatigue, sommeil <br> - Humeur et qualité de vie                                                                                                                        | [Ahmad MF (2020)](https://pubmed.ncbi.nlm.nih.gov/32504783/), Chu TT (2011), Jiao C (2019), Klupp NL (2015-16), Li K (2024), etc.                     | Extraits, gélules, thé                                           | Pour ceux qui veulent "optimiser leur firmware" ou méditer en paix                                                    |
+| **Lion's Mane, l’Architecte Cérébral** | - Neuroprotection (NGF, mémoire, réparation nerveuse) <br> - Antidépresseur <br> - Gastro-protecteur <br> - Immunomodulation via le microbiote                                                                                                                                                                                                                                                           | Nagano M (2010), Mori K (2009), Lai P-L (2013), Li I-C (2018-2020), Docherty S (2023)                    | Extraits, gélules, snacks (biscuits)                             | Plébiscité par les développeurs et étudiants pour "booster leur RAM"                                                  |
+| **Chaga, le Bouclier Naturel**          | - Antioxydant (radicaux libres) <br> - Immunitaire <br> - Anticancéreux (bouche, foie, sein, mélanome, etc.) <br> - Anti-inflammatoire <br> - Neuroprotection (Alzheimer, Parkinson) <br> - Antiviral (Herpès)                                                                                                                                                                                          | Park YK (2004), Arata S (2016), Eid JI (2020-21), Lee MG (2021), Wold CW (2020)                          | Thé, extraits (liquides ou poudre)                             | Utilisé par les "guerriers du clavier" pour lutter contre le stress oxydatif                                          |
+| **Cordyceps, le Turbo Énergétique**     | - Endurance & anti-fatigue <br> - Immunitaire (cellules dendritiques) <br> - Neuroprotection (Alzheimer, lésion cérébrale) <br> - Anticancéreux <br> - Antidiabétique <br> - Santé hépatique                                                                                                                                                                                                             | Kang HJ (2015), Ontawong A (2024), Tancreda G (2025), Wei P (2021)                                       | Poudres, gélules, boissons naturelles                           | Pris par les gamers et sportifs pour rester focus pendant les "sessions longues"                                     |
+| **Turkey Tail, le Renfort Immunitaire** | - Immunomodulation (PSK/PSP) <br> - Anticancéreux (sein, foie, poumon, synergie chimio) <br> - Antioxydant                                                                                                                                                                                                                                                                                               | Saleh MH (2017), Torkelson CJ (2012), Jiménez-Medina E (2008), Luo KW (2014)                             | Extraits aqueux, poudre, gélules                                | Intégré dans des routines pour renforcer le corps comme un "bouclier anti-virus", surtout en période de stress lourd |
+
 
 
 ## Sources
