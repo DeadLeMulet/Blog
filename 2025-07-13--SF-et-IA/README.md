@@ -8,14 +8,11 @@ IA utilisées :
 
 1. Intro
 2. 📚 Présentation rapide des écrivains
-3. Lion's Mane : Le champion de la cognition
-4. Chaga : L'antioxydant de Sibérie
-5. Cordyceps : L'énergisant des hauteurs
-6. Tableau récapitulatif synthétique
-7. Les champignons médicinaux sont-ils vraiment des "superaliments" ?
-8. Exemples concrets d'utilisation
-9. Conclusion
-10. Sources
+3. 🤖 L’IA chez Asimov : un outil socialement encadré
+4. 🧠 L’IA chez Herbert : l’interdiction totale après l’horreur
+5. 🎯 Des anticipations qui éclairent nos défis actuels
+6. 🔮 Les leçons pour aujourd'hui
+7. 💬 Conclusion
 
 
 
