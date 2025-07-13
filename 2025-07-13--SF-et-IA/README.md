@@ -2,7 +2,7 @@
 
 ## Conception de l'article
 
-IA utilisées : 
+IA utilisées : Chatgpt pour la structure et Perplexity pour les citations tirées des livres.
 
 ## 📋 Plan
 
