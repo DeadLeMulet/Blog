@@ -1,5 +1,9 @@
 # 🔬 Les Champignons Médicinaux : Superpouvoirs Fongiques Validés par la Science
 
+## Conception de l'article
+
+IA utilisées : Perplexity (rassemblement des sources scientifique), NotebookLM 50 sources (Traduction et génération de contenu en fonction de l'axe), ChatGPT (mise en page Markdown)
+
 ## 🧩 Intro
 
 Dans le monde effervescent du biohacking et de la santé, il existe des influenceurs vantant les mérites des champignons **Lion's Mane**, **Chaga** ou **Cordyceps** dans leur café du matin ou leurs smoothies, ou de voir le **Reishi** se démocratiser comme un complément quotidien. Cette tendance marque un changement notable : il y a cinq ans, ces champignons étaient presque inconnus en dehors de cercles de niche, tandis qu'aujourd'hui, ils apparraissent dans les campagnes de communication de **toutes les startups bien-être**.
@@ -55,7 +59,7 @@ Les extraits standardisés en gélules sont généralement préférés pour leur
 
 La dose recommandée varie **entre 500 mg et 1 gramme par jour**, idéalement le matin à jeun. Les premiers effets sur la clarté mentale peuvent apparaître **entre 2 à 6 semaines** de prise régulière. Pour des effets optimaux sur la mémoire et la concentration, une supplémentation de 8 à 12 semaines est généralement conseillée.
 
-## Chaga : L'antioxydant de Sibérie
+## ❄️ Chaga : L'antioxydant de Sibérie
 Le Chaga (Inonotus obliquus), également appelé "polypore oblique" ou "champignon de l'immortalité", se distingue par son apparence unique ressemblant à une masse noire et irrégulière, presque comme du charbon. Ce champignon parasite pousse principalement sur l'écorce des bouleaux dans les régions froides comme la Sibérie, le Canada et le nord de l'Europe.
 
 ### Principes actifs clés
@@ -82,7 +86,7 @@ Le Chaga est traditionnellement consommé sous forme de décoction (infusion pro
 
 La dose recommandée varie généralement entre 1 à 2 grammes par jour d'extrait sec. On utilise traditionnellement 5-10 grammes de champignon séché pour 300 ml d'eau, à laisser mijoter 20 minutes. Les effets sur l'immunité et la vitalité peuvent prendre **4 à 8 semaines** pour se manifester pleinement.
 
-## Cordyceps : L'énergisant des hauteurs
+## ⚡ Cordyceps : L'énergisant des hauteurs
 Le Cordyceps (Cordyceps sinensis) est également appelé "champignon chenille" en raison de son cycle de vie unique : il se développe en parasitant la larve d'une chenille, la transformant en une sorte de "momie" dont il se nourrit. Ce champignon endémique pousse principalement dans les hautes altitudes du Tibet et de l'Himalaya, entre 4000 et 5000 mètres.
 
 ### Principes actifs clés
@@ -109,7 +113,7 @@ Le Cordyceps est disponible sous forme d'extraits standardisés en gélules, de 
 La dose recommandée varie entre **1 à 3 grammes par jour** d'extrait sec. Pour les effets sur l'énergie et l'endurance, une prise le matin est généralement conseillée. Les premiers effets peuvent apparaître entre 2 à 4 semaines de supplémentation régulière. Pour des effets optimaux sur les performances physiques, une cure de 6 à 8 semaines est souvent recommandée.
 
 ![Schéma](./images/champignon-lot.png)
-## Tableau récapitulatif synthétique
+## 📊 Tableau récapitulatif synthétique
 | Champignon   | Dose quotidienne recommandée | Bienfaits principaux                             | Délai d'effet estimé |
 |--------------|------------------------------|--------------------------------------------------|-----------------------|
 | Lion's Mane  | 500 mg - 1 g                 | Mémoire, concentration, neuroprotection          | 2-6 semaines          |
@@ -118,7 +122,7 @@ La dose recommandée varie entre **1 à 3 grammes par jour** d'extrait sec. Pour
 | Reishi       | 1-2 g                        | Relaxation, sommeil, immunité                    | 2-8 semaines          |
 
 
-## Les champignons médicinaux sont-ils vraiment des "superaliments" ?
+## 🥦 Les champignons médicinaux sont-ils vraiment des "superaliments" ?
 
 ### Comparaison avec la spiruline
 La spiruline est reconnue pour sa richesse en protéines (60-70%), en vitamines B et en fer. Les champignons médicinaux offrent une approche différente : plutôt que d'apporter des nutriments de base, ils fournissent des composés bioactifs spécifiques (bêta-glucanes, triterpènes) qui agissent comme des modulateurs physiologiques.
@@ -130,7 +134,7 @@ Le curcuma agit principalement par sa curcumine aux propriétés anti-inflammato
 Le ginseng et les champignons médicinaux partagent des propriétés adaptogènes similaires, mais les champignons offrent une diversité d'actions plus large selon les espèces. Le Reishi se rapproche du ginseng pour l'adaptation au stress, mais avec un effet plus relaxant qu'énergisant.
 
 
-## Exemples concrets d'utilisation
+## 🧪 Exemples concrets d'utilisation
 ### Champignons médicinaux dans la tech et le biohacking
 Dans le secteur technologique, le Lion's Mane gagne en popularité pour ses effets sur la concentration et la clarté mentale. Les développeurs et travailleurs intellectuels l'utilisent pour améliorer leur focus pendant les sessions de programmation intensives et réduire le "brouillard mental" lié au stress.
 
@@ -140,7 +144,7 @@ Une étude pilote sur 12 adultes avec TDAH a montré une réduction du brouillar
 Le Cordyceps est particulièrement prisé par les athlètes et les adeptes du biohacking pour optimiser leurs performances physiques. Il est utilisé pour améliorer l'endurance, raccourcir les temps de récupération et optimiser l'utilisation de l'oxygène.
 Les biohackers l'intègrent dans leurs protocoles d'optimisation des performances, souvent en combinaison avec d'autres adaptogènes comme la rhodiola ou l'ashwagandha.
 
-## Conclusion
+## ✅ Conclusion
 
 Les champignons médicinaux représentent une convergence fascinante entre les savoirs traditionnels millénaires et la recherche scientifique moderne. Lion's Mane, Chaga, Cordyceps et Reishi offrent chacun des profils d'action spécifiques et complémentaires : neuroprotection et cognition, propriétés antioxydantes, optimisation énergétique, et gestion du stress respectivement.
 
@@ -153,7 +157,7 @@ La recherche sur les champignons médicinaux connaît un essor considérable. Le
 Le marché des champignons médicinaux, évalué à plus de 67 milliards de dollars en 2024, témoigne de cet intérêt croissant. Cette croissance s'accompagne d'investissements importants dans la recherche et le développement, laissant présager des avancées significatives dans les années à venir.
 L'avenir de la mycothérapie semble prometteur, mais nécessite le maintien d'une approche scientifique rigoureuse pour distinguer les effets réels des simples effets de mode. Les champignons médicinaux méritent une place dans l'arsenal thérapeutique moderne, mais toujours dans le cadre d'une approche de santé intégrative et éclairée.
 
-## Sources
+## 📚 Sources
 
 - [(1) 6 Benefits of Reishi Mushroom (Plus Side Effects and Dosage)](https://www.healthline.com/nutrition/reishi-mushroom-benefits)
 - [(2) Therapeutic properties of Inonotus obliquus (Chaga mushroom)](https://www.tandfonline.com/doi/full/10.1080/21501203.2023.2260408#d1e327)
