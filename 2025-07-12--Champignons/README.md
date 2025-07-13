@@ -8,15 +8,20 @@ Pendant des siècles, ces "champignons fonctionnels" ont été des piliers de la
 
 Mais au-delà du battage médiatique et des anecdotes, que disent réellement les **preuves scientifiques** ? Cet article de blog a pour objectif de **faire un bilan** des bienfaits avérés pour la santé en offrant des clés concrètes pour comprendre leur potentiel. Nous nous pencherons sur la manière dont ces champignons pourraient offrir des avantages significatifs.
 
-![Schéma](./images/schema-architecture.png)
+![Schéma](./images/Champignon-foret.png)
 
 ## 📋 Plan
 
 1. Intro
 2. Qu’est-ce qu’un champignon médicinal ?
-3. Top 5 des champignons médicinaux validés scientifiquement
-4. Comment agissent-ils dans le corps ?
-. Sources
+3. Lion's Mane : Le champion de la cognition
+4. Chaga : L'antioxydant de Sibérie
+5. Cordyceps : L'énergisant des hauteurs
+6. Tableau récapitulatif synthétique
+7. Les champignons médicinaux sont-ils vraiment des "superaliments" ?
+8. Exemples concrets d'utilisation
+9. Conclusion
+10. Sources
 
 ## 🍄 **Qu’est-ce qu’un champignon médicinal ?**
 
@@ -32,73 +37,121 @@ Il est essentiel de distinguer les différentes catégories de champignons :
 • **Champignons médicinaux :** Comme mentionné, ces champignons contiennent des composés spécifiques qui leur confèrent des bienfaits avérés ou potentiels pour la santé, incluant des effets immunomodulateurs, antioxydants, anticancéreux et anti-inflammatoires.
 
 
-## 🧠 **Top 5 des champignons médicinaux validés scientifiquement**
-Voici un tableau récapitulatif des 5 champignons médicinaux les plus étudiés scientifiquement, avec une touche "geek" et des exemples d'utilisation vulgarisés :
+## 🧠 Lion's Mane : Le champion de la cognition
 
-| Nom + Surnom Geek                | Effets prouvés | Forme de consommation | Exemple d’utilisation |
-|----------------------------------|----------------|------------------------|------------------------|
-| Reishi, le Gardien de la Longévité | Soutien Immunitaire; Potentiel Anticancéreux (cellules cancéreuses du sein, du colorectal, de la prostate, soutient l'effet de la chimiothérapie, réduit la fatigue liée au cancer) ; Soutien Cardiovasculaire et Métabolique (améliore le cholestérol) ; Neuroprotection (réduction des lésions cérébrales, protection des neurones, effets anti-épileptiques)  ; Anti-fatigue et aide au sommeil ; Améliore l'humeur et la qualité de vie (chez les femmes atteintes de fibromyalgie). | Principalement sous forme d'extraits, de gélules ou en thé. | Souvent consommé par les personnes soucieuses de leur bien-être général et de leur longévité, notamment les adeptes de méditation pour ses effets apaisants, ou ceux qui veulent "optimiser leur firmware". |
-| Lion's Mane, l'Architecte Cérébral | Neuroprotection (améliore le développement et la fonction nerveuse, réduit l'anxiété et l'irritation, favorise la récupération des blessures du système nerveux, augmente le facteur de croissance nerveuse, améliore la mémoire et les fonctions cognitives) ; Effets antidépresseurs ; Soutien Gastro-intestinal; Régulation du microbiote intestinal. | Disponible en extraits, gélules, ou parfois incorporé dans des aliments comme des biscuits. | Très populaire parmi les développeurs de la Silicon Valley et les étudiants cherchant à "booster leur RAM" et leur concentration. |
-| Chaga, le Bouclier Naturel | Antioxydant Puissant; Soutien Immunitaire; Potentiel Anticancéreux (buccales, du sein, du foie, du colorectal, de l'ostéosarcome, du mélanome, de la prostate ; induit l'apoptose et l'autophagie dans divers cancers) ; Anti-inflammatoire ; Neuroprotection (Alzheimer, Parkinson) ; Antivirale (Herpès simplex). | Généralement en thé ou en extraits (liquides ou en poudre). | Historiquement utilisé par les tribus sibériennes pour la vitalité et comme "élixir de vie", il est maintenant pris par ceux qui cherchent à renforcer leurs défenses naturelles et leur protection cellulaire, comme les "guerriers du clavier" contre le stress oxydatif. |
-| Cordyceps, le Turbo Énergétique | Améliore l'Endurance et réduit la fatigue ; Soutien Immunitaire; Neuroprotection (Alzheimer, Parkinson, lésion cérébrale traumatique, réduit le stress oxydatif) ; Potentiel Anticancéreux ; Antidiabétique (effet hypoglycémiant) ; Améliore la santé du foie. | Fréquemment sous forme de poudres, de gélules, ou en tant qu'ingrédient dans des boissons énergisantes naturelles. | Très apprécié par les gamers et les sportifs pour maintenir un niveau d'énergie optimal et améliorer la concentration pendant les "longues sessions de jeu ou d'entraînement". |
-| Turkey Tail, le Renfort Immunitaire | Soutien Immunitaire Puissant; Potentiel Anticancéreux (études sur le cancer du sein, colorectal, du foie, des poumons, de la prostate ; synergie avec la chimiothérapie, activité anti-proliférative et anti-métastatique) ; Antioxydant . | Souvent utilisé en extraits aqueux, en poudres ou en gélules. | Fréquemment inclus dans les régimes de soutien immunitaire, notamment par les personnes cherchant à renforcer leur organisme face au stress ou aux traitements lourds, comme un "bouclier anti-virus" pour le corps. |
+Le Lion's Mane est également connu sous les noms de "crinière de lion". Ce champignon pousse naturellement sur les troncs d'arbres feuillus comme le chêne, le hêtre et l'érable.
+
+### Bienfaits documentés
+- Amélioration des fonctions cognitives :
+Les recherches montrent que le Lion's Mane peut favoriser la **régénération des neurones** et **améliorer la mémoire et la concentration**. Une étude japonaise menée par [Mori et al. (2009)](https://pubmed.ncbi.nlm.nih.gov/18844328/) sur des adultes âgés a démontré qu'une supplémentation de 250 mg trois fois par jour pendant 12 semaines améliorait significativement les fonctions cognitives par rapport au groupe placebo.
+
+Dans le même sens Lion's Mane stimule la **production de NGF**, découvert par la neurologue italienne [Rita Levi-Montalcini](https://booksofdante.wordpress.com/2024/05/17/la-criniere-de-lion-hericium-erinaceus/) (prix Nobel 1986). Ce facteur de croissance joue un rôle crucial dans la croissance, le maintien et la survie des neurones. Cette propriété en fait un allié potentiel dans la prévention du déclin cognitif lié à l'âge.
+
+Une [étude japonaise de 2010](https://pubmed.ncbi.nlm.nih.gov/20834180/) a révélé que les participants ayant consommé du Lion's Mane pendant quatre semaines ont signalé une **réduction des symptômes d'anxiété** et de dépression par rapport au groupe placebo. Les propriétés anti-inflammatoires et neuroprotectrices du champignon semblent contribuer à cet effet.
+
+### Forme de consommation recommandée
+
+Les extraits standardisés en gélules sont généralement préférés pour leur concentration en principes actifs. Les poudres peuvent être ajoutées aux smoothies ou aux boissons chaudes. Les extraits liquides offrent une meilleure biodisponibilité mais sont moins pratiques à doser.
+
+La dose recommandée varie **entre 500 mg et 1 gramme par jour**, idéalement le matin à jeun. Les premiers effets sur la clarté mentale peuvent apparaître **entre 2 à 6 semaines** de prise régulière. Pour des effets optimaux sur la mémoire et la concentration, une supplémentation de 8 à 12 semaines est généralement conseillée.
+
+## Chaga : L'antioxydant de Sibérie
+Le Chaga (Inonotus obliquus), également appelé "polypore oblique" ou "champignon de l'immortalité", se distingue par son apparence unique ressemblant à une masse noire et irrégulière, presque comme du charbon. Ce champignon parasite pousse principalement sur l'écorce des bouleaux dans les régions froides comme la Sibérie, le Canada et le nord de l'Europe.
+
+### Principes actifs clés
+Le Chaga est exceptionnellement riche en antioxydants, notamment les bêta-glucanes, les polysaccharides, les polyphénols et la mélanine. Sa teneur en antioxydants en fait l'un des aliments les **plus riches de la planète** dans cette catégorie. Il contient également des minéraux et oligo-éléments essentiels : potassium, calcium, magnésium, phosphore, manganèse, zinc, sélénium et iode.
+
+### Propriétés antioxydantes exceptionnelles
+Le Chaga possède des propriétés antioxydantes puissantes qui aident à neutraliser les radicaux libres et à **réduire l'inflammation**. Cette action peut contribuer à ralentir le processus de vieillissement cellulaire et à protéger contre les dommages oxydatifs.
+
+Les bêta-glucanes présents dans le Chaga sont reconnus pour **stimuler le système immunitaire**. Ces composés aident à **renforcer les défenses naturelles **de l'organisme et à renforcer les globules blancs qui jouent un rôle crucial dans la défense contre les pathogènes.
+
+La forte teneur en antioxydants du Chaga, en particulier ses polysaccharides et polyphénols, contribue à **réduire l'inflammation dans le corps**. Cette propriété peut être bénéfique pour de nombreux troubles inflammatoires.
+
+Le Chaga est considéré comme un adaptogène, ce qui signifie qu'il aide le corps à s'**adapter aux facteurs de stress**. En régulant les niveaux de cortisol (l'hormone du stress), il peut aider à réduire l'anxiété et à promouvoir un sentiment de calme et de bien-être.
+
+### Études scientifiques majeures
+
+Bien que le Chaga soit largement utilisé en médecine traditionnelle, les **études cliniques chez l'homme restent limitée**
+s. La plupart des recherches sont encore au stade préclinique ou in vitro. Cependant, des études sur des modèles animaux ont montré des résultats prometteurs concernant ses propriétés anticancéreuses et immunomodulatrices.
+Des [recherches spécifiques sur le SARS-CoV-2](https://pubmed.ncbi.nlm.nih.gov/34900242/) ont examiné l'action antivirale du Chaga, montrant un potentiel d'inhibition du virus. Cependant, ces résultats nécessitent encore des études cliniques chez l'homme pour être confirmés.
+
+### Forme de consommation recommandée
+
+Le Chaga est traditionnellement consommé sous forme de décoction (infusion prolongée dans l'eau chaude). Les extraits en poudre ou en gélules permettent un dosage plus précis et une meilleure concentration des principes actifs.
+
+La dose recommandée varie généralement entre 1 à 2 grammes par jour d'extrait sec. On utilise traditionnellement 5-10 grammes de champignon séché pour 300 ml d'eau, à laisser mijoter 20 minutes. Les effets sur l'immunité et la vitalité peuvent prendre **4 à 8 semaines** pour se manifester pleinement.
+
+## Cordyceps : L'énergisant des hauteurs
+Le Cordyceps (Cordyceps sinensis) est également appelé "champignon chenille" en raison de son cycle de vie unique : il se développe en parasitant la larve d'une chenille, la transformant en une sorte de "momie" dont il se nourrit. Ce champignon endémique pousse principalement dans les hautes altitudes du Tibet et de l'Himalaya, entre 4000 et 5000 mètres.
+
+### Principes actifs clés
+Le principal composé actif du Cordyceps est la cordycépine, un nucléoside aux propriétés pharmacologiques multiples : **antimicrobiennes, antioxydantes et énergétiques**. La cordycépine stimule la production de la molécule énergétique universelle des cellules.
+
+### Amélioration de l'énergie et de l'endurance
+
+Le Cordyceps est reconnu pour sa capacité à augmenter l'utilisation de l'oxygène par les cellules et à améliorer la production d'ATP. Plusieurs études scientifiques confirment son action pour augmenter la puissance musculaire, raccourcir le temps de récupération et favoriser l'élimination de l'acide lactique.
+
+Le Cordyceps aide l'organisme à mieux résister face à la **fatigue émotionnelle** liée au stress. Il agit sur le système immunitaire et permet de dynamiser et **tonifier le corps**, notamment en poussant les capacités physiques et sexuelles.
+
+Les études précliniques suggèrent que le Cordyceps possède des propriétés hépatoprotectrices et peut **soutenir la fonction rénale**. Il aide les organes d'élimination (foie, poumons, reins) dans leur travail de **détoxification**.
+
+### Études scientifiques majeures
+
+Une [étude sur 40 athlètes](https://pubmed.ncbi.nlm.nih.gov/38580687/) masculins a montré une amélioration de la fonction lymphocytaire après six semaines de consommation quotidienne d'extrait de Cordyceps. D'autres recherches précliniques ont démontré ses effets sur l'amélioration de l'absorption d'oxygène par les poumons et l'optimisation du métabolisme énergétique.
+
+Cependant, il est important de noter que la plupart des études rigoureuses restent précliniques, et des essais cliniques randomisés contrôlés chez l'homme sont nécessaires pour confirmer tous ces effets.
+
+### Forme de consommation recommandée
+
+Le Cordyceps est disponible sous forme d'extraits standardisés en gélules, de poudres ou de teintures. Les extraits fermentés (mycélium + champignon) peuvent offrir une meilleure biodisponibilité des nutrients. La forme en gélules permet un dosage précis et une prise pratique.
+
+La dose recommandée varie entre **1 à 3 grammes par jour** d'extrait sec. Pour les effets sur l'énergie et l'endurance, une prise le matin est généralement conseillée. Les premiers effets peuvent apparaître entre 2 à 4 semaines de supplémentation régulière. Pour des effets optimaux sur les performances physiques, une cure de 6 à 8 semaines est souvent recommandée.
+
+![Schéma](./images/champignon-lot.png)
+## Tableau récapitulatif synthétique
+| Champignon   | Dose quotidienne recommandée | Bienfaits principaux                             | Délai d'effet estimé |
+|--------------|------------------------------|--------------------------------------------------|-----------------------|
+| Lion's Mane  | 500 mg - 1 g                 | Mémoire, concentration, neuroprotection          | 2-6 semaines          |
+| Chaga        | 1-2 g                        | Antioxydant, immunité, anti-âge                  | 4-8 semaines          |
+| Cordyceps    | 1-3 g                        | Énergie, endurance, adaptation au stress         | 2-4 semaines          |
+| Reishi       | 1-2 g                        | Relaxation, sommeil, immunité                    | 2-8 semaines          |
 
 
-## Comment agissent-ils dans le corps ?
+## Les champignons médicinaux sont-ils vraiment des "superaliments" ?
+
+### Comparaison avec la spiruline
+La spiruline est reconnue pour sa richesse en protéines (60-70%), en vitamines B et en fer. Les champignons médicinaux offrent une approche différente : plutôt que d'apporter des nutriments de base, ils fournissent des composés bioactifs spécifiques (bêta-glucanes, triterpènes) qui agissent comme des modulateurs physiologiques.
+
+### Comparaison avec le curcuma
+Le curcuma agit principalement par sa curcumine aux propriétés anti-inflammatoires. Les champignons médicinaux offrent une action plus large : immunomodulation, adaptation au stress, neuroprotection, selon les espèces.
+
+### Comparaison avec le ginseng
+Le ginseng et les champignons médicinaux partagent des propriétés adaptogènes similaires, mais les champignons offrent une diversité d'actions plus large selon les espèces. Le Reishi se rapproche du ginseng pour l'adaptation au stress, mais avec un effet plus relaxant qu'énergisant.
 
 
-### Composés bioactifs qui interagissent avec notre corps
+## Exemples concrets d'utilisation
+### Champignons médicinaux dans la tech et le biohacking
+Dans le secteur technologique, le Lion's Mane gagne en popularité pour ses effets sur la concentration et la clarté mentale. Les développeurs et travailleurs intellectuels l'utilisent pour améliorer leur focus pendant les sessions de programmation intensives et réduire le "brouillard mental" lié au stress.
 
-Au cœur de l'action des champignons se trouvent les **polysaccharides**, de longues chaînes de molécules de sucre. Les **bêta-glucanes** sont une catégorie spécifique de ces polysaccharides, particulièrement abondantes dans les parois cellulaires des champignons. Ces molécules ne sont pas de simples sucres énergétiques ; elles agissent comme des signaux, des "clés" qui "déverrouillent" des réponses biologiques cruciales dans notre corps.
+Une étude pilote sur 12 adultes avec TDAH a montré une réduction du brouillard mental avec une prise de 500 mg par jour. Les professionnels de la tech rapportent des améliorations dans la gestion de tâches complexes et la mémorisation d'informations techniques.
 
-Leur principal mode d'action est l'**immunomodulation**. Imaginez votre système immunitaire comme une armée sophistiquée : l'immunomodulation signifie que ces champignons ne se contentent pas de stimuler l'armée mais qu'ils l'aident plutôt à s'équilibrer. Ils peuvent renforcer les défenses lorsque le corps est attaqué (par exemple, en augmentant l'activité des cellules tueuses naturelles), et calmer les réponses excessives qui mènent à l'inflammation chronique.
+### Cordyceps pour les sportifs et biohackers
+Le Cordyceps est particulièrement prisé par les athlètes et les adeptes du biohacking pour optimiser leurs performances physiques. Il est utilisé pour améliorer l'endurance, raccourcir les temps de récupération et optimiser l'utilisation de l'oxygène.
+Les biohackers l'intègrent dans leurs protocoles d'optimisation des performances, souvent en combinaison avec d'autres adaptogènes comme la rhodiola ou l'ashwagandha.
 
-Par exemple, les polysaccharides du Chaga peuvent **réduire l'expression de marqueurs pro-inflammatoires**, tout en **augmentant les marqueurs anti-inflammatoires**. Cette capacité à réguler l'inflammation est essentielle pour prévenir et gérer de nombreuses maladies liées au stress chronique.
+## Conclusion
 
-De plus, ces polysaccharides peuvent agir comme des **prébiotiques**, nourrissant les bonnes bactéries de notre intestin. C'est important car notre intestin et notre cerveau sont liés par l'« axe intestin-cerveau ». Une flore intestinale saine peut influencer positivement l'humeur, réduire l'anxiété et même impacter les maladies neurodégénératives.
+Les champignons médicinaux représentent une convergence fascinante entre les savoirs traditionnels millénaires et la recherche scientifique moderne. Lion's Mane, Chaga, Cordyceps et Reishi offrent chacun des profils d'action spécifiques et complémentaires : neuroprotection et cognition, propriétés antioxydantes, optimisation énergétique, et gestion du stress respectivement.
 
-### Le Cerveau : Neurogenèse et Neuroprotection
+Les études scientifiques actuelles, **bien que majoritairement précliniques**, confirment de nombreux usages traditionnels et révèlent des mécanismes d'action précis et offrant une approche d'optimisation de la santé plus douce et équilibrée.
 
-Plusieurs champignons sont de puissants alliés pour notre cerveau. Le **Lion's Mane**, en particulier, est célèbre pour ses effets neuroprotecteurs et son soutien aux fonctions cognitives.  Il contient des composés uniques qui sont capables de stimuler la **création de nouveaux neurones**. Cela est crucial pour l'apprentissage, la mémoire et la réparation du cerveau après des lésions. Le Lion's Mane augmente la production du facteur de croissance nerveuse, une protéine vitale pour la survie et le fonctionnement des neurones. Une déficience en NGF est associée à la maladie d'Alzheimer, suggérant que le Lion's Mane pourrait aider à combattre cette maladie. Il peut également aider à réduire l'anxiété et l'irritabilité.
+Il est essentiel de distinguer les informations scientifiques validées des affirmations marketing souvent exagérées. Les consommateurs doivent privilégier les sources académiques, les revues scientifiques à comité de lecture, et les conseils de professionnels de santé formés à la mycothérapie.
 
-Le **Reishi** montre aussi des effets neuroprotecteurs, notamment en protégeant les neurones dopaminergiques (impliqués dans la maladie de Parkinson) et en ayant des effets anti-épileptiques. Le **Chaga** et le **Cordyceps** protègent également les cellules cérébrales du stress oxydatif et de l'inflammation, des facteurs clés dans les maladies neurodégénératives comme Alzheimer et Parkinson.
+La recherche sur les champignons médicinaux connaît un essor considérable. Les études sur les effets neuroprotecteurs des champignons médicinaux, particulièrement du Lion's Mane, ouvrent des perspectives prometteuses dans la prévention des maladies neurodégénératives et l'optimisation du vieillissement cognitif. Mais également les recherches sur l'utilisation des champignons médicinaux en support des traitements anticancéreux montrent des résultats encourageants pour améliorer la qualité de vie des patients et optimiser l'efficacité des thérapies conventionnelles.
 
-### Combat contre le Stress et la Fatigue
-
-Les champignons médicinaux sont également reconnus pour leur capacité à aider le corps à gérer le stress, sous diverses formes :
-
-• **Stress Oxydatif :** Beaucoup sont de puissants **antioxydants**. Le Chaga, par exemple, piège les radicaux libres responsables des dommages cellulaires. Cette protection antioxydante est fondamentale pour la santé cellulaire et prévient le vieillissement prématuré.
-
-• **Fatigue :** Le **Cordyceps**, surnommé le "turbo énergétique", est connu pour **améliorer l'endurance** et **réduire la fatigue**. Il est apprécié des athlètes et des personnes ayant besoin d'un coup de pouce énergétique. Le Chaga a également démontré des effets anti-fatigue.
-
-• **Inflammation Chronique :** L'inflammation est une réponse naturelle à une blessure ou une infection, mais quand elle persiste, elle devient un facteur de stress pour le corps. Les champignons aident à moduler cette réponse inflammatoire, la ramenant à un état d'équilibre et contribuant à la réparation des tissus.
-
-En résumé, les champignons médicinaux agissent en synergie sur plusieurs fronts : ils **équilibrent et renforcent le système immunitaire** via leurs polysaccharides et bêta-glucanes, **protègent et stimulent le cerveau** par des mécanismes de neurogenèse et de neuroprotection, et aident l'organisme à **mieux gérer le stress, la fatigue et l'inflammation** en agissant comme de puissants antioxydants et régulateurs. Ils ne sont pas une "solution miracle", mais un support précieux pour maintenir l'équilibre interne et optimiser nos fonctions vitales.
-
-## 🌱 **Peut-on les cultiver soi-même ?
-
-il est **très compliqué de cultiver soi-même certaines espèces de champignons médicinaux**, bien que les méthodes varient considérablement d'une espèce à l'autre et que certaines demandent plus de patience ou des conditions spécifiques.
-
-• **Le Chaga** :
-
-◦ Sa culture est un processus à long terme : elle implique l'inoculation de **bouleaux vivants** avec du mycélium de Chaga (souvent via des chevilles contenant le mycélium).
-
-◦ La première récolte peut prendre entre **5 et 9 ans** après l'inoculation. Cela demande donc beaucoup de patience et la présence d'arbres hôtes adaptés.
-
-• **Le Cordyceps ** :
-
-◦  Il nécessite une **préparation spécifique du substrat** (par exemple, eau, amidon, levure nutritionnelle, sucre, azomite, aliments pour bébés).
-
-◦ Les cultures se font généralement en bocaux, avec une phase d'incubation d'environ 21 jours dans l'obscurité (entre 12,7°C et 23,9°C) et une phase de fructification sous un cycle de lumière de 16 heures (entre 15,6°C et 21,1°C).
-
-• **Le Lion's Mane (Crinière de Lion,** **Hericium erinaceus****)** :
-
-◦ Vous pouvez le cultiver en préparant votre propre substrat à base de sciure de bois dur.
-
-◦ Il nécessite des conditions d'humidité élevées (au moins 80%) et des températures tempérées (entre 15,6°C et 29,4°C).
-
-◦ Le processus, de l'apparition du mycélium à la formation du champignon, prend généralement environ **3 à 5 semaines**.
-
+Le marché des champignons médicinaux, évalué à plus de 67 milliards de dollars en 2024, témoigne de cet intérêt croissant. Cette croissance s'accompagne d'investissements importants dans la recherche et le développement, laissant présager des avancées significatives dans les années à venir.
+L'avenir de la mycothérapie semble prometteur, mais nécessite le maintien d'une approche scientifique rigoureuse pour distinguer les effets réels des simples effets de mode. Les champignons médicinaux méritent une place dans l'arsenal thérapeutique moderne, mais toujours dans le cadre d'une approche de santé intégrative et éclairée.
 
 ## Sources
 
@@ -106,25 +159,11 @@ il est **très compliqué de cultiver soi-même certaines espèces de champignon
 - [(2) Therapeutic properties of Inonotus obliquus (Chaga mushroom)](https://www.tandfonline.com/doi/full/10.1080/21501203.2023.2260408#d1e327)
 - [(3) Hericenones and erinacines: stimulators of nerve growth factor (NGF) biosynthesis in Hericium erinaceus](https://www.tandfonline.com/doi/full/10.1080/21501201003735556)
 - [(4) The scientific rediscovery of a precious ancient Chinese herbal regimen: Cordyceps sinensis](https://pubmed.ncbi.nlm.nih.gov/9884180/)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-- [() ](https)
-
+- [Rita Levi-Montalcini](https://booksofdante.wordpress.com/2024/05/17/la-criniere-de-lion-hericium-erinaceus/)
+- [Etude japonaise de 2010](https://pubmed.ncbi.nlm.nih.gov/20834180/)
+- [Mori et al. (2009)](https://pubmed.ncbi.nlm.nih.gov/18844328/)
+- [Recherches spécifiques sur le SARS-CoV-2](https://pubmed.ncbi.nlm.nih.gov/34900242/)
+- [Etude sur 40 athlètes](https://pubmed.ncbi.nlm.nih.gov/38580687/)
 
 ## Nombre de lecteur 
 
