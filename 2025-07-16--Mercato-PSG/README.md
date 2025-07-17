@@ -46,7 +46,7 @@ Ensuite il y a les joueurs à ne surtout pas récupérer de prêt : Skriniar, So
 
 ---
 
-## 🧱 Recrues ciblées : 3 profils, 3 idées
+## 🧱 Recrues ciblées : 4 profils, 4 idées
 
 ### 🛡️ 1. Défenseur central
 - Nom : ***Loic Badé (FC Séville)***.
@@ -96,3 +96,8 @@ Par contre, il faudra faire attention à :
 
 Ce mercato fictif, est avant tout un exercice d’équilibre entre passion, raison et projet de jeu.  
 ***Et toi, t’aurais vendu qui ? Tu recrutes qui ? ***
+
+
+## Nombre de lecteur 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DeadLeMulet.Blog.Article3)
