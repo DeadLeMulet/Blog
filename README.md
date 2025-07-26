@@ -4,6 +4,8 @@
 
 ## 📋 2025
 
+- [#7 : Est-ce que les IA comprennent ce quelles lisent ? ](./2025-07-26--NotebookLM-fail/) : Fail de la lecture des consignes !
+
 - [#6 : Nikola Tesla vs IA ](./2025-07-21--Nikola-Tesla-vs-aujourdhui/) : Quels sont les points commun entre Nikola Tesla et l'IA d'aujourd'hui ?
 
 - [#5 : Comment se porte de marché de l'Acier](./2025-07-19--Acier/) : Point sur le marché mondial de l'Acier.
